@@ -1,0 +1,27 @@
+{
+    "conferences-dictionary":
+    {
+        "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics": "ACL",
+        "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing": "EMNLP",
+        "Transactions of the Association for Computational Linguistics": "TACL",
+        "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)": "NAACL",
+        
+        "Findings of the Association for Computational Linguistics: EMNLP 2022": "Findings of EMNLP",
+        "Findings of the Association for Computational Linguistics: EACL 2023": "Findings of EACL",
+        "Findings of the Association for Computational Linguistics: ACL 2023": "Findings of ACL",
+        
+        "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP": "BlackboxNLP",
+        
+        "The Twelfth International Conference on Learning Representations": "ICLR",
+        "International Conference on Machine Learning": "ICML",
+        "Advances in Neural Information Processing Systems": "NeurIPS",
+        
+        "Conference on Computer Vision and Pattern Recognition": "CVPR",
+        "European Conference on Computer Vision": "ECCV"
+    },
+
+    "api-keys":
+    {
+        "s2": "TODO"
+    }    
+}
