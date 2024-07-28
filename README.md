@@ -32,6 +32,7 @@ python job_search/latex/simplify.py --input_file data/sample.bib --output_file d
 
 Notes:
 
+* Start by using this website [bibxtex-tidy](https://flamingtempura.github.io/bibtex-tidy) to clean fields you aren't interested in.
 * I included a [sample file](data/sample.bib) with a few of my papers for testing the sciprt. Make sure to use the path to your papers bib file when actually running it.
 * I used ChatGPT for creating this script. You can check it out [here](https://chatgpt.com/share/2ec25c41-1f48-4884-800e-c71cc2787aa3).
 * The script works for my papers (I think most of them), but I only covered conferences I published at (or that some model automatically completed when working on the script). Check out the [config.json](config.json) file to add additional conference mapping.
